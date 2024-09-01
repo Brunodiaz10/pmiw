@@ -1,4 +1,7 @@
- let foto;
+//https://youtu.be/W9ojrhmv_3M
+//Alumno: Bruno Díaz - Comisión 1
+//Legajo: 119012/6
+let foto;
 let cantX = 10;
 let cantY = 10;
 let cantC = 6;
