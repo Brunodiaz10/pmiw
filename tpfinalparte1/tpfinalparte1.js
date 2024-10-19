@@ -1,6 +1,6 @@
 //Jazmin Tava
 //Bruno Díaz
-
+//
 let fotos = [];
 let texto  = [];
 let estado;
