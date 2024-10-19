@@ -1,6 +1,6 @@
 //Jazmin Tava
 //Bruno Díaz
-//
+//https://youtu.be/L4FBLRTdf0Y?si=PlLvgw9_hZiPJtgF
 let fotos = [];
 let texto  = [];
 let estado;
