@@ -1,6 +1,6 @@
 //jazmin Tava
 //Bruno diaz
-//Comision 1
+//Comision 1 - https://youtu.be/REgU5iDeXaE?si=145k5GFelcGPf4cD
 
 
 //entregamos el juego principal, nos faltaria las imagenes, sonido y la pantallas de inicio
