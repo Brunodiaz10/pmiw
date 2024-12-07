@@ -1,5 +1,6 @@
 //Jazmin Tava
 //Bruno Diaz
+// Video de yt: Es probable que lo suba a ultima hs por inconvenientes con microfono y camara
 let iMenu,iCreditos,iFondo,iAmarillo,iAzul;
 let menuPrincipal ;
 let sonido;
